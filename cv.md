@@ -1,5 +1,5 @@
 # Kateryna Kyrylchuk
-#JavaScript Front-developer
+#JavaScript Junior Front-End Developer
 ## Summary
 
 ## Contacts
