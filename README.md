@@ -1,2 +1,2 @@
 
-https://katekiri.github.io/rsschool-cv/cv
+https://katekiri.github.io/rsschool-cv/
