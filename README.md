@@ -1,1 +1,2 @@
-# rsschool-cv
+
+https://katekiri.github.io/rsschool-cv/
