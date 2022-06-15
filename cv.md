@@ -18,6 +18,10 @@
 * Git
 * JavaScript
 
+## Courses
+Rolling Scopes School 
+JavaScript/Front-end
+
 ## Languages
 
 * Ukrainian
